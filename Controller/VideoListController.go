@@ -2,10 +2,10 @@ package Controller
 
 import(
 	"context"
-	"VideoAPI/Models"
+	"VideoAPI/TencentVideoAPI/Models"
 	"errors"
-	_"VideoAPI/Resources/ParamsCheck"
-	"VideoAPI/Action"
+	_"VideoAPI/TencentVideoAPI/Resources/ParamsCheck"
+	"VideoAPI/TencentVideoAPI/Action"
 	"strconv"
 )
 

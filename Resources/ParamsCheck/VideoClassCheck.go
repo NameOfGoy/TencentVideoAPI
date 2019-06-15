@@ -1,7 +1,7 @@
 package ParamsCheck
 
 import(
-	"VideoAPI/Models"
+	"VideoAPI/TencentVideoAPI/Models"
 	"errors"
 )
 

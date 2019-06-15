@@ -1,10 +1,10 @@
 package Action
 
 import(
-	db "VideoAPI/Resources/DataBase"
-	"VideoAPI/Models"
+	db "VideoAPI/TencentVideoAPI/Resources/DataBase"
+	"VideoAPI/TencentVideoAPI/Models"
 	"gopkg.in/mgo.v2/bson"
-	"VideoAPI/Resources"
+	"VideoAPI/TencentVideoAPI/Resources"
 	"time"
 )
 

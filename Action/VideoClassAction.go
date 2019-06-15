@@ -1,8 +1,8 @@
 package Action
 
 import(
-	"VideoAPI/Resources"
-	_"VideoAPI/Models"
+	"VideoAPI/TencentVideoAPI/Resources"
+	_"VideoAPI/TencentVideoAPI/Models"
 	vod "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/vod/v20180717"
 )
 

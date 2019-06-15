@@ -2,10 +2,10 @@ package Controller
 
 import(
 	"context"
-	"VideoAPI/Models"
+	"VideoAPI/TencentVideoAPI/Models"
 	"errors"
-	check "VideoAPI/Resources/ParamsCheck"
-	"VideoAPI/Action"
+	check "VideoAPI/TencentVideoAPI/Resources/ParamsCheck"
+	"VideoAPI/TencentVideoAPI/Action"
 )
 
 func VideoClassController(ctx context.Context, request Models.APIGatewayProxyRequest) (ret map[string]interface{}, err error) {
